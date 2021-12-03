@@ -10,7 +10,7 @@
   
   * Через пакетные менеджеры
     
-    * Windows: `choco install nodejs`
+    * Windows: `winget install nodejs`
     
     * MacOS: `brew install nodejs`
 
