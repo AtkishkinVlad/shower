@@ -23,6 +23,8 @@
     
     * MacOS: `brew install nodejs`
 
+    * Ubuntu: `apt install nodejs`
+
 * Установить [Git](https://git-scm.com/)
   
   * Через пакетные менеджеры
@@ -30,6 +32,8 @@
     * Windows: `winget install git`
     
     * MacOS: `brew install git`
+
+    * Ubuntu: `apt install git`
 
 * Выполнить команды
   
