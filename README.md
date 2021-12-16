@@ -1,6 +1,6 @@
 # Любовь к науке
 
-**ВАЖНО:** Актуальный материал находится в ветке test !
+**ВАЖНО:** Актуальный материал находится в test !
 
 [Figma](https://www.figma.com/file/ZfXcs5sMu4Dkizc7twTAAi/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8?node-id=0%3A1)
 
